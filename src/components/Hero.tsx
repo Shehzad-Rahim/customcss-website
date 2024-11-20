@@ -18,9 +18,9 @@ function Hero() {
         </div>
       <div id="content">
         <h1>Welcome to SR Shoes</h1>
-        <h2>The simple website</h2>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi nisi officia non aspernatur, suscipit, repellat distinctio perspiciatis quos hic ab dolorum obcaecati quod! Dicta molestiae sequi quis eaque magni corporis!</p>
-      </div>
+        <h2>Best Shoes collections</h2>
+        <p>Welcome to SR Shoes, where comfort meets style! We are passionate about crafting high-quality, durable, and fashionable footwear that caters to every individual. Whether you are looking for casual sneakers, formal footwear, or sports shoes, SR Shoes has something for everyone.</p>
+        </div>
     </div>
   )
 }
